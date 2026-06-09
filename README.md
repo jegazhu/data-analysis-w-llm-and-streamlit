@@ -1,8 +1,6 @@
 # Build with AI: LLM-Powered Data Analysis App Using Python and Streamlit
 This is the repository for the LinkedIn Learning course `cBuild with AI: LLM-Powered Data Analysis App Using Python and Streamlit`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
-
 ## Course Description
 
 <p>In this quick, hands-on course, learn to build a lightweight, AI-powered data analysis tool using Python, Streamlit, and the OpenAI API. Instructor Maggie Ma shows you how to upload a dataset and ask questions in plain English—your app will convert the input into code (Python or SQL), run it, and return useful insights. Perfect for technical teams looking to support non-technical stakeholders, this course takes you through building and testing a natural language interface for structured data. No prior experience with LLMs is needed—just Python and a bit of pandas—and you’ll finish the course with a working prototype you can expand or deploy internally.</p>
